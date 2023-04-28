@@ -314,7 +314,7 @@ body {
   }
   .top-shadow {
     top: 30%;
-    right: 0;
+   left: 10%;
   }
   .right_side {
     text-align: unset;
